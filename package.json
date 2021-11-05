@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/tomscholz/jest-meteor-stubs#readme",
   "peerDependencies": {
-    "jest-cli": "23.6.0"
+    "jest-cli": "^27.3.1"
   }
 }
